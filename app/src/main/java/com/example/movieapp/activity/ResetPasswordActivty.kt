@@ -180,7 +180,7 @@ class ResetPasswordActivity : AppCompatActivity() {
                 //vui lòng xac nhận
                     Toast.makeText(
                         this@ResetPasswordActivity,
-                        "Please confirm",
+                        "Please Confirm",
                         Toast.LENGTH_SHORT
                     ).show()
                 }
